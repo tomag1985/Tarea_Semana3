@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hausaufgaben</string>
+    <string name="mensaje_bienvenida">"Willkommen!"</string>
+    <string name="boton_entrar">"Betreten"</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea semana 3</string>
+    <string name="mensaje_bienvenida">"Bienvenido!"</string>
+    <string name="boton_entrar">"Entrar"</string>
+</resources>
